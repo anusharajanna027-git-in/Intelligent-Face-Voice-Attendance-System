@@ -1,0 +1,31 @@
+# Utilities
+numpy
+pandas
+
+# FACE RECOGNITION
+scikit-learn
+
+#To perform image opertaions=>to detect the face using the dlib-bin
+dlib-bin
+# or we can also use =>dlib-20.0.99-cp314-cp314-win_amd64.whl <= for windows of python version 3.14
+
+# use the FACE RECOGNITION Models to detect the face embeddings we need models=>available in the guthub repo=>for to detect the vector embeddings points on the face,now simply use that model github repo
+git+https://github.com/ageitgey/face_recognition_models
+setuptools<70.0.0
+
+# Database => use Supabase=>provides the database or bcrypt=>provides the hashing methods
+supabase
+bcrypt
+
+#segno=>library to build QRCode=>we provide input as url it return the qr code
+segno
+#pillow=>Image dealing libraby ,it helps to preprocess the images and also import the images to pyton while python deal with the images it use pillow =>it provides many features to flip, rezise the images and etc
+pillow
+
+#frontend libarry
+streamlit
+
+
+
+
+
