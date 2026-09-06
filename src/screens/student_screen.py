@@ -125,7 +125,7 @@ def student_screen():
                 student = next((s for s in all_students if s['student_id']==student_id), None)
                 #once the students detected data we got then makes the to  session_state know that students are loggedin and the role is student
                 if student:
-                    st.session_state.is_logged = True
+                    st.session_state.is_logged_in = True
                     st.session_state.user_role = 'student' 
                     st.session_state.student_data = student 
                     st.toast(f"Welcome Bach! {student['name']}")
