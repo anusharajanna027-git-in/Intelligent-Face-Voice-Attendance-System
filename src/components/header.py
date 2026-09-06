@@ -1,6 +1,6 @@
 import streamlit as st
 
-
+#for homepage header
 def header_home():
     logo_url= "https://i.ibb.co/YTYGn5qV/logo.png"
     st.markdown(
@@ -12,5 +12,14 @@ def header_home():
         """,
         unsafe_allow_html=True)
     
-
-
+#header for teacher dashboard 
+def header_dashboard():
+    logo_url = "https://i.ibb.co/YTYGn5qV/logo.png"
+    
+    st.markdown(f"""
+        <div style="display:flex; align-items:center; justify-content:center; gap:10px">
+            <img src='{logo_url}' style='height:85px;' />
+            <h2 style='text-align:left; color:#5865F2'>SNAP<br/>CLASS</h1>
+        </div>   
+                
+                """, unsafe_allow_html=True)

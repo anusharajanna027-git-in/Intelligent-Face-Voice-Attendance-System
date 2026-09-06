@@ -1,3 +1,6 @@
+#frontend libarry
+streamlit
+
 # Utilities
 numpy
 pandas
@@ -13,7 +16,7 @@ dlib-bin
 git+https://github.com/ageitgey/face_recognition_models
 setuptools<70.0.0
 
-# Database => use Supabase=>provides the database or bcrypt=>provides the hashing methods
+# Database => use Supabase=>provides the database & bcrypt=>provides the hashing methods
 supabase
 bcrypt
 
@@ -22,8 +25,11 @@ segno
 #pillow=>Image dealing libraby ,it helps to preprocess the images and also import the images to pyton while python deal with the images it use pillow =>it provides many features to flip, rezise the images and etc
 pillow
 
-#frontend libarry
-streamlit
+
+#libraries for voice processing pipeline
+librosa 
+resemblyzer 
+webrtcvad-wheels
 
 
 
