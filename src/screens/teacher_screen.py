@@ -321,7 +321,7 @@ def teacher_screen_login():
     with btnc1:
         if st.button("Login", icon=':material/passkey:', shortcut='control+enter', width='stretch'):
             if login_teacher(teacher_username, teacher_pass):
-                st.toast("welcome back!", icon="👋") # toast => its like a flash message which will show for a few seconds and then disappear
+                st.toast(f"Welcome back {teacher_username}!", icon="👋") # toast => its like a flash message which will show for a few seconds and then disappear
                 import time
                 time.sleep(1)
                 st.rerun()
