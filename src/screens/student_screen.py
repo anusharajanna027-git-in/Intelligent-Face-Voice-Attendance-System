@@ -114,7 +114,7 @@ def student_screen():
         detected, all_students, num_faces = predict_attendance(img)
         if num_faces == 0:
             st.warning('Face not founf!')
-        if num_faces > 1:
+        elif num_faces > 1:
             st.warning('Multiple Faces found')
         else:
             if detected:
