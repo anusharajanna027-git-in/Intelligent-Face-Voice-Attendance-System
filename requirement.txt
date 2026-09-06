@@ -1,6 +1,10 @@
 #frontend libarry
 streamlit
 
+# Database => use Supabase=>provides the database & bcrypt=>provides the hashing methods
+supabase
+bcrypt
+
 # Utilities
 numpy
 pandas
@@ -15,10 +19,6 @@ dlib-bin
 # use the FACE RECOGNITION Models to detect the face embeddings we need models=>available in the guthub repo=>for to detect the vector embeddings points on the face,now simply use that model github repo
 git+https://github.com/ageitgey/face_recognition_models
 setuptools<70.0.0
-
-# Database => use Supabase=>provides the database & bcrypt=>provides the hashing methods
-supabase
-bcrypt
 
 #segno=>library to build QRCode=>we provide input as url it return the qr code
 segno
