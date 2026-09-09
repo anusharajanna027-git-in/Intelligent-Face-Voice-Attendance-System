@@ -370,7 +370,7 @@ def teacher_screen_register():
 
     teacher_username = st.text_input("Enter username", placeholder='anusha')
     teacher_name = st.text_input("Enter name", placeholder='Anusha R')
-    teacher_pass = st.text_input("Enter password", placeholder='anusha')
+    teacher_pass = st.text_input("Enter password", placeholder='anu@1227')
     teacher_pass_confirm = st.text_input("Confirm password", type='password', placeholder='anusha')
     
     st.divider()
