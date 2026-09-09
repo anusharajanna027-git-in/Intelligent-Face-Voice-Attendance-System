@@ -312,7 +312,7 @@ def teacher_screen_login():
 
     teacher_username = st.text_input("Enter username", placeholder='anusha')
     
-    teacher_pass = st.text_input("Enter password", placeholder='anusha')
+    teacher_pass = st.text_input("Enter password", placeholder='Enter your password')
 
     st.divider()
 
