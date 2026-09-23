@@ -1,4 +1,7 @@
 # 🎓 SnapClass
+## 🚀 Live Demo
+
+🔗 **[View Live Demo](https://intelligent-face-voice-attendance-s.vercel.app/)**
 
 ## AI-Powered Face & Voice Attendance Management System
 
