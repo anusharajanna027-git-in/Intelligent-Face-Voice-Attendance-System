@@ -1,4 +1,4 @@
-<img width="1090" height="528" alt="image" src="https://github.com/user-attachments/assets/19a7bcd4-2ae3-49af-a8a2-3b361bc0b774" /># 🎓 SnapClass
+🎓 SnapClass
 
 <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20SnapClass-blue?style=for-the-badge" alt="Live Demo">
 
