@@ -1,4 +1,4 @@
-🎓 SnapClass
+## 🎓 SnapClass
 
 <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20SnapClass-blue?style=for-the-badge" alt="Live Demo">
 
