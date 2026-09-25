@@ -1,6 +1,6 @@
 ## 🎓 SnapClass
 
-<img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20SnapClass-blue?style=for-the-badge" alt="Live Demo">
+<img src="https://intelligent-face-voice-attendance-s.vercel.app/" alt="Live Demo">
 
 ## AI-Powered Face & Voice Attendance Management System
 
